@@ -1,0 +1,6 @@
+"css": [
+    {
+        "path": "resources/css/sencha-touch.css",
+        "platform": ["chrome", "safari", "ios", "ios-classic", "android", "firefox"]
+    }
+]
